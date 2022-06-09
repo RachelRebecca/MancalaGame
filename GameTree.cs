@@ -73,7 +73,7 @@ namespace MancalaGame
             }
             return value;
         }
-         
+          
         /// <summary>
         /// Internal method to get the next position board after making a move
         /// </summary>
